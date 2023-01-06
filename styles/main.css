@@ -68,7 +68,7 @@ header div#status-container {
 header img#status {
     display: block;
     margin: auto;
-    width: 15px;
+    width: 1rem;
     position: absolute;
     top: 50%;
     left: 50%;
