@@ -134,9 +134,9 @@ section#social > ul > li > ul > li > span {
         --color-blue: #2997ff;
         --color-pink: #f14bf1;
 
-        --header-avatar-border: 0.05rem  solid #30363d;
+        --header-avatar-border: 0.05rem solid #30363d;
         --header-avatar-boxs: 0 0 0 1px rgba(240,246,252,0.1);
-        --header-status-border: 0.05rem  solid #30363d;
+        --header-status-border: 0.05rem solid #30363d;
         --header-status-boxs: 0 0 transparent;
     }
 }
