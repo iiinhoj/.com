@@ -56,7 +56,7 @@ header div#status-container {
     width: 26px;
     height: 26px;
     position: absolute;
-    top: 38px;
+    top: 40px;
     left: 58px;
 
     background-color: var(--color-background);
